@@ -61,16 +61,16 @@ Run the script like ye're raisin' the Jolly Roger:
 
 ```bash
 # Basic usage - for when ye're still learnin' the ropes
-python push_swap_sweater.py
+python tester.py
 
 # With custom numbers - like pickin' which islands to raid
-python push_swap_sweater.py 3 2 1 5 4
+python tester.py 3 2 1 5 4
 
 # Visualize mode - watch the chaos unfold like a ship battle!
-python push_swap_sweater.py --visualize
+python tester.py --visualize
 
 # Challenge mode - arrr, only for the bravest sea dogs!
-python push_swap_sweater.py --difficulty pirate-king
+python tester.py --difficulty pirate-king
 ```
 
 ## 📜 The Rules of Engagement
