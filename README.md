@@ -25,7 +25,7 @@ The Push_swap_sweater be a Python script designed to test yer mettle and make ye
 
 ## ⚔️ Features That'll Shiver Yer Timbers
 
-- **🌊 Stack Operations**: Push, swap, and rotate like ye're maneuver in' through treacherous waters!
+- **🌊 Stack Operations**: Push, swap, and rotate like ye're maneuvering through treacherous waters!
 - **📊 Algorithm Visualization**: Watch yer data dance like a drunken sailor on shore leave!
 - **🎯 Performance Metrics**: Count yer moves like a quartermaster counts the loot!
 - **🏆 Challenge Modes**: From "Landlubber" to "Pirate King" - can ye master 'em all?
@@ -116,6 +116,6 @@ Now quit yer lollygaggin' and start sortin'! May the winds be at yer back and ma
 
 ---
 
-**🏴‍☠️ Happy Sweat in', Ye Salty Sea Dogs! 🏴‍☠️**
+**🏴‍☠️ Happy Sweatin', Ye Salty Sea Dogs! 🏴‍☠️**
 
 *P.S. - If ye find a bug, it be a feature! We call 'em "unexpected sea monsters"* 🐙
