@@ -51,8 +51,6 @@ git clone https://github.com/almoraru/Push_swap_sweater.git
 # Navigate to the ship's hold
 cd Push_swap_sweater
 
-# Install the crew's dependencies (if any be needed)
-pip install -r requirements.txt
 ```
 
 ## 🎮 Usage - Time to Set Sail!
