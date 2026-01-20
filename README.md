@@ -35,7 +35,6 @@ The Push_swap_sweater be a Python script designed to test yer mettle and make ye
 ## ⚔️ Features That'll Shiver Yer Timbers
 
 - **🌊 Stack Operations**: Push, swap, and rotate like ye're maneuvering through treacherous waters!
-- **📊 Algorithm Visualization**: Watch yer data dance like a drunken sailor on shore leave!
 - **🎯 Performance Metrics**: Count yer moves like a quartermaster counts the loot!
 - **🏆 Challenge Modes**: From "Landlubber" to "Pirate King" - can ye master 'em all?
 - **💀 Sweat-Inducing Complexity**: Guaranteed to make ye perspire more than a gunner in battle!
