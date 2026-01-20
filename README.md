@@ -62,15 +62,6 @@ Run the script like ye're raisin' the Jolly Roger:
 ```bash
 # Basic usage - for when ye're still learnin' the ropes
 python tester.py
-
-# With custom numbers - like pickin' which islands to raid
-python tester.py 3 2 1 5 4
-
-# Visualize mode - watch the chaos unfold like a ship battle!
-python tester.py --visualize
-
-# Challenge mode - arrr, only for the bravest sea dogs!
-python tester.py --difficulty pirate-king
 ```
 
 ## 📜 The Rules of Engagement
@@ -95,20 +86,8 @@ Can ye sort these numbers in less than:
 - **3 numbers**: 3 moves (Cabin Boy level)
 - **5 numbers**: 12 moves (Deckhand level)
 - **100 numbers**: 700 moves (First Mate level)
-- **500 numbers**: 5500 moves (Captain level)
-- **Perfect optimization**: Pirate King status! 👑
+- **500 numbers**: 5500 moves (Captain level)👑
 
-## 🤝 Contributing - Join the Crew!
-
-Want to add to this treasure trove? All hands on deck!
-
-1. Fork the repository (steal me ship, will ye?)
-2. Create yer feature branch (`git checkout -b feature/ParrotOnShoulder`)
-3. Commit yer changes (`git commit -m 'Added a colorful parrot'`)
-4. Push to the branch (`git push origin feature/ParrotOnShoulder`)
-5. Open a Pull Request (send a message in a bottle!)
-
-## ⚖️ License
 
 This here code be free as the seven seas! Distributed under the MIT License. See `LICENSE` file for more details, ye legal-minded landlubber!
 
