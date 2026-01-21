@@ -179,4 +179,4 @@ if __name__ == "__main__":
     run_test(num_count=240, ops_limit=2500, iterations=10, log_errors=True)
     run_test(num_count=330, ops_limit=3500, iterations=10, log_errors=True)
     run_test(num_count=469, ops_limit=5000, iterations=10, log_errors=True)
-    run_test(num_count=500, ops_limit=5500, iterations=100, log_errors=True)
+    run_test(num_count=500, ops_limit=5500, iterations=1000, log_errors=True)
